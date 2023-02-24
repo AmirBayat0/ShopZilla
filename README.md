@@ -1,5 +1,5 @@
 # ShopZilla 🛒🛍
-## Developing... 👩‍💻
+## Developing... 🧑‍💻
 ### APPLICATION SHOTS WILL BE UPLOADED HERE, AND I'LL SHARE THE SOURCE CODE AS SOON AS THE PROJECT IS FINISHED.
 
 ## Shots
