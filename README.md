@@ -21,8 +21,8 @@
 
 <br>
 
-Getting Started:
-The following commands should be run to run the project.
+### Getting Started:
+To execute the project, it is necessary to run the commands listed below.
 
 ## Development Setup
 
@@ -34,7 +34,7 @@ flutter run
 ```
 
 ## App Main Sections:
-
+```
 - Splash
 - Onboard(x4)
 - Login & Registration Screens
@@ -54,15 +54,15 @@ flutter run
 - Custom BottomSheet / SnackBars / Dialogs
 - Bottom Navigation
 - Empty List Screens
-- No Internet Screen
+- Offline user screen
 - Contact with us
-- Much More...
-
+- And More...
+```
 ## App Features:
 
-### Authentications page
+### Authentications pages
 
-    - Login sections
+    - Login section
         - an icon for changing the theme
         - form for username(with validations)
         - form for password(with validations)
@@ -72,7 +72,7 @@ flutter run
         - a button for login
         - a text for navigating to the registration page if the user has not any account and wants to register a new account
 
-    - Register sections
+    - Register section
         - an icon for changing the theme
         - form for First name (with validations)
         - form for Last name (with validations)
