@@ -2,8 +2,8 @@
 # ShopZilla - Online Shop App using Flutter with GetX state management
 ![main](https://user-images.githubusercontent.com/91388754/228836513-7a95a3cf-2890-4048-bee8-33b8f553ce1a.jpg)
 
-<img src="https://user-images.githubusercontent.com/91388754/206431484-5fb88ed5-3fed-45b5-8c2c-83cdaad70442.png" width="1000"  />
-<img src="https://user-images.githubusercontent.com/91388754/206431301-dd4bbc7b-9619-47a5-821a-591136b49f5e.png" width="1000" />
+<img src="" width="1000"  />
+
 
 # Overview:
 ShopZilla is a comprehensive application template for an online shopping platform, which utilizes the FakeStoreApi as the application's backend. The application comes equipped with a wide range of features to enhance user experience, such as a user authentication page for logging in or registering a new account, a homepage for browsing all available products, a detailed product page for viewing essential product information such as prices and descriptions, and a search page for easily locating favorite products.
