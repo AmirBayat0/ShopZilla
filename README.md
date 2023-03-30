@@ -14,6 +14,8 @@ Additionally, the application includes an animated drawer for seamless navigatio
 
 Moreover, the application is highly customizable, enabling developers to make modifications easily and efficiently. As a result, ShopZilla is an ideal platform for those who are interested in developing their own online shopping application or learning Flutter by analyzing authentic application source code. Developed using Flutter, the application is readily accessible for all developers, making the application an excellent learning tool for new and experienced developers alike.
 
+API documentation: [Fake Store API](https://fakestoreapi.com/docs)
+
 ###
 
 <br>
