@@ -2,7 +2,6 @@
 # ShopZilla - Online Shop App using Flutter with GetX state management
 ![main](https://user-images.githubusercontent.com/91388754/228836513-7a95a3cf-2890-4048-bee8-33b8f553ce1a.jpg)
 
-<img src="https://user-images.githubusercontent.com/91388754/228848251-44a749c7-03d3-4d3d-950c-dd6a3cc17d30.png" width ="900"/>
 <img src="https://user-images.githubusercontent.com/91388754/228848738-0326280f-4366-4bc1-8fe7-0a1910df9e0e.png" width ="900"/>
  
 
