@@ -73,30 +73,30 @@ flutter run
 
 ### Authentications pages
 
-    - Login section
+    - Login section (All forms has been implemented with validation functions)
         - an icon for changing the theme
-        - form for username(with validations)
-        - form for password(with validations)
+        - form for username
+        - form for password
         - a button for login
         - a button for login with the Facebook account(just UI)
         - a button for login with the Google account(just UI)
         - a button for login
         - a text for navigating to the registration page if the user has not any account and wants to register a new account
 
-    - Register section
+    - Register section (All forms has been implemented with validation functions)
         - an icon for changing the theme
-        - form for First name (with validations)
-        - form for Last name (with validations)
-        - form for Email name (with validations)
-        - form for Username (with validations)
-        - form for Password (with validations)
-        - form for City (with validations)
-        - form for Street (with validations)
-        - form for Number (with validations)
-        - form for Zip code (with validations)
-        - form for Phone (with validations)
-        - button for register new account
-         - a text for navigating to the Login page if the user has an account and wants to Login
+        - a form for First name
+        - a form for Last name 
+        - a form for Email name 
+        - a form for Username 
+        - a form for Password 
+        - a form for City 
+        - a form for Street 
+        - a form for Number  
+        - a form for Zip code  
+        - a form for Phone  
+        - a button for register new account
+        - a text for navigating to the Login page if the user has an account and wants to Login
 
 ### Home page
 
@@ -145,10 +145,10 @@ flutter run
 ### Payment page (x4)
 
     - Add card section
-        - form for cardholder name
-        - form for the card number
-        - form for expiration code
-        - form for security code
+        - a form for cardholder name
+        - a form for the card number
+        - a form for expiration code
+        - a form for security code
         - a switch button for setting the current filled data as default
         
     - Payment section
