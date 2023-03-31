@@ -27,8 +27,7 @@ API documentation: [Fake Store API](https://fakestoreapi.com/docs)
 <br>
 
 ## App Demo Video:
-
-- will be published soon!
+[App Preview](https://youtu.be/1m9AgUef4QY)
 
 <br>
 
