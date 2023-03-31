@@ -22,7 +22,7 @@ API documentation: [Fake Store API](https://fakestoreapi.com/docs)
 
 ## App Source Code:
 
-- will be published soon!
+[Source Code](https://www.buymeacoffee.com/AmirBayat/e/127012)
 
 <br>
 
