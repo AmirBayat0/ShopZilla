@@ -1,4 +1,5 @@
 # SHOPZILLA V.2: Online Shopping App with Flutter - Android & iOS + Support
+## ✅ NOTE: THE DOCUMENTATION IS CURRENTLY A WORK IN PROGRESS. WE ARE ACTIVELY WORKING ON IT AND IT WILL BE COMPLETED SOON. THANK YOU FOR YOUR PATIENCE! ✅
 ## OverView
 Elevate your development projects with ShopZilla, the ultimate app template for crafting sophisticated online shopping platforms.
 ### Unlock Full Access and Stay Updated
