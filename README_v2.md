@@ -7,6 +7,9 @@ Elevate your development projects with ShopZilla, the ultimate app template for 
 
 #### COMPLETE SOURCE CODE OF SHOPZILLA: [Source Code](https://www.buymeacoffee.com/AmirBayat/e/127012)
 
+### Project Structure
+The project was meticulously crafted using a modular and scalable architecture, purposefully designed to ensure the production of clean, maintainable, and extensible code, ready for seamless future updates.
+
 ### ShopZilla: A Cutting-Edge Solution for E-Commerce Development
 ShopZilla is an advanced application template designed to harness the power of the [FakeStoreApi](https://fakestoreapi.com/docs) backend, delivering a seamless and enriched user experience. With a comprehensive suite of features, ShopZilla streamlines the shopping process and elevates user engagement. Key features include:
 ```
@@ -98,6 +101,14 @@ By integrating ShopZilla into your development toolkit, you'll have a robust fou
 * Active Community Support: Join our developer community for ongoing support and collaboration.
 * Continuous Updates: Stay ahead with regular updates and new features
 Embrace the potential of ShopZilla and take your development projects to new heights. Purchase today and start building the shopping apps of tomorrow!
+
+## Technologies Used
+- Flutter framework
+- Dart programming language
+- GetX package for state management
+- Dio for Api integration
+- Repository Pattern
+- Solid & Scalable Code
 
 ## 𝗙𝗔𝗤 𝗙𝗢𝗥 𝗦𝗛𝗢𝗣𝗭𝗜𝗟𝗟𝗔 𝗩.𝟮: 𝗢𝗡𝗟𝗜𝗡𝗘 𝗦𝗛𝗢𝗣𝗣𝗜𝗡𝗚 𝗔𝗣𝗣 𝗪𝗜𝗧𝗛 𝗙𝗟𝗨𝗧𝗧𝗘𝗥
 #### 1. What is included in the ShopZilla purchase?
