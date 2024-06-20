@@ -98,6 +98,28 @@ By integrating ShopZilla into your development toolkit, you'll have a robust fou
 * Continuous Updates: Stay ahead with regular updates and new features
 Embrace the potential of ShopZilla and take your development projects to new heights. Purchase today and start building the shopping apps of tomorrow!
 
+## 𝗙𝗔𝗤 𝗙𝗢𝗥 𝗦𝗛𝗢𝗣𝗭𝗜𝗟𝗟𝗔 𝗩.𝟮: 𝗢𝗡𝗟𝗜𝗡𝗘 𝗦𝗛𝗢𝗣𝗣𝗜𝗡𝗚 𝗔𝗣𝗣 𝗪𝗜𝗧𝗛 𝗙𝗟𝗨𝗧𝗧𝗘𝗥
+#### 1. What is included in the ShopZilla purchase?
+- When you purchase ShopZilla, you gain full access to all source code and files, an invitation to the main GitHub repository for updates, and exclusive access to a support group for developer collaboration.
+
+#### 2. How can I access updates and improvements to ShopZilla?
+- Upon purchase, you will be added to the main GitHub repository where you can track all updates, improvements, and new features. Regular updates will be pushed to this repository to ensure your app remains cutting-edge.
+
+#### 3. What kind of support is available for ShopZilla buyers?
+- You will receive an exclusive invitation to join our vibrant support group, connecting you with other developers. This community is a space for sharing insights, seeking assistance, and collaborating on projects.
+
+#### 4. Is there any documentation provided with ShopZilla?
+- Yes, ShopZilla comes with comprehensive documentation. This includes easy-to-follow guides and extensive documentation to assist you in the development process, making it straightforward even for novice developers.
+
+#### 5. Can I customize the ShopZilla template for my own needs?
+- Absolutely! ShopZilla is highly customizable. Whether you are a beginner or an experienced developer, the intuitive design and detailed documentation make it easy to tailor the app to your specific requirements.
+
+#### 6. How can I showcase the new features and enhancements of ShopZilla?
+- For a sneak peek of the exciting new features and enhancements in ShopZilla V.2, follow us on Instagram (@codewithflexz). This will keep you in the loop with the latest updates and provide exclusive insights into the app's capabilities.
+
+#### 7. What backend does ShopZilla use, and how does it enhance the user experience?
+ShopZilla harnesses the FakeStoreApi backend to ensure a seamless, enriched shopping experience with efficient data management, detailed product information, and high-quality images.
+
 
 ### Connect with Me
 - 📸 Instagram: [@codewithflexz](https://www.instagram.com/codewithflexz)
