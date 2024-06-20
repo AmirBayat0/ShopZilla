@@ -99,4 +99,9 @@ By integrating ShopZilla into your development toolkit, you'll have a robust fou
 Embrace the potential of ShopZilla and take your development projects to new heights. Purchase today and start building the shopping apps of tomorrow!
 
 
-https://buymeacoffee.com/amirbayat/e/127012
+Connect with Me
+📸 Instagram: [@codewithflexz](https://www.instagram.com/codewithflexz)
+🎬 YouTube: [Programming With FlexZ](https://www.youtube.com/c/ProgrammingWithFlexZ)
+📧 Contact: [amirbayat.dev@gmail.com](https://mail.google.com/mail/u/0/)
+📧 Linkedin: [amirbayat](https://www.linkedin.com/in/amirhossein-bayat-9288a4225/)
+🔗 More Links: [zaap.bio/CodeWithFlexz](https://zaap.bio/CodeWithFlexz)
