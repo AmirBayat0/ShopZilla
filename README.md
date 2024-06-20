@@ -1,240 +1,142 @@
-# [SHOPZILLA V.2: Online Shopping App with Flutter - (Android & iOS) Documents 👉TAP TO REVIEW 👈](https://github.com/AmirBayat0/ShopZilla/blob/main/README_v2.md)
+# SHOPZILLA V.2: Online Shopping App with Flutter - Android & iOS + Support
+## ✅ NOTE: THE DOCUMENTATION IS CURRENTLY A WORK IN PROGRESS. WE ARE ACTIVELY WORKING ON IT AND IT WILL BE COMPLETED SOON. THANK YOU FOR YOUR PATIENCE! ✅
 ![main](https://user-images.githubusercontent.com/91388754/228836513-7a95a3cf-2890-4048-bee8-33b8f553ce1a.jpg)
+## Overview
+Elevate your development projects with ShopZilla, the ultimate app template for crafting sophisticated online shopping platforms.
+### Unlock Full Access and Stay Updated
+- When you purchase ShopZilla, you'll gain full access to all its code and files, as well as be added to the main GitHub repository. This ensures you can track updates, improvements, and new features, keeping your app at the cutting edge. You'll also receive an exclusive invitation to join our vibrant support group, connecting you with other developers to share insights, seek assistance, and collaborate.
 
-<img src="https://user-images.githubusercontent.com/91388754/228848738-0326280f-4366-4bc1-8fe7-0a1910df9e0e.png" width ="900"/>
- 
+#### COMPLETE SOURCE CODE OF SHOPZILLA: [Source Code](https://www.buymeacoffee.com/AmirBayat/e/127012)
 
+### Project Structure
+The project was meticulously crafted using a modular and scalable architecture, purposefully designed to ensure the production of clean, maintainable, and extensible code, ready for seamless future updates.
 
-
-# Overview:
-ShopZilla is a comprehensive application template for an online shopping platform, which utilizes the FakeStoreApi as the application's backend. The application comes equipped with a wide range of features to enhance user experience, such as a user authentication page for logging in or registering a new account, a homepage for browsing all available products, a detailed product page for viewing essential product information such as prices and descriptions, and a search page for easily locating favorite products.
-
-Additionally, the application includes an bottom navigation bar for seamless navigation between screens, a cart page for storing items that the user wants to buy, a payment page for easy and secure transactions, a favorites page for keeping track of the user's preferred products, a settings page for changing app settings like themes, a user profile details page for viewing the current user's information, an available users page, an adjustment page, and light and dark modes to cater to various preferences.
-
-Moreover, the application is highly customizable, enabling developers to make modifications easily and efficiently. As a result, ShopZilla is an ideal platform for those who are interested in developing their own online shopping application or learning Flutter by analyzing authentic application source code. Developed using Flutter, the application is readily accessible for all developers, making the application an excellent learning tool for new and experienced developers alike.
-
-API documentation: [Fake Store API](https://fakestoreapi.com/docs)
-
-###
-
-<br>
-
-## App Source Code:
-
-[Source Code](https://www.buymeacoffee.com/AmirBayat/e/127012)
-
-<br>
-
-## App Demo Video:
-[App Preview Video](https://youtu.be/1m9AgUef4QY)
-
-<br>
-
-### Getting Started:
-To execute the project, it is necessary to run the commands listed below.
-
-## Development Setup
-
-run the following commands:
-
+### ShopZilla: A Cutting-Edge Solution for E-Commerce Development
+ShopZilla is an advanced application template designed to harness the power of the [FakeStoreApi](https://fakestoreapi.com/docs) backend, delivering a seamless and enriched user experience. With a comprehensive suite of features, ShopZilla streamlines the shopping process and elevates user engagement. Key features include:
 ```
-flutter pub get
-flutter run
+Splash Page:
+  Welcome users with an attractive and animated splash screen that sets the tone for a delightful shopping experience.
 ```
-
-## App Main Sections:
 ```
-- Splash
-- Onboard(x4)
-- Login & Registration Screens
-- Home Screen
-- Welcome message
-- Cart Screen
-- Product Details Screen
-- Available Users screen
-- Adjustment screen
-- User profile screen
-- Search Screen
-- Favorite Screen
-- Settings
-- Drawer
-- Payment Screen(x4)
-- Light / Dark Mode
-- Custom BottomSheet / SnackBars / Dialogs
-- Bottom Navigation
-- Empty List Screens
-- Offline user screen
-- Contact with us
-- And More...
+User Authentication Page:
+  Secure and intuitive user authentication ensures a hassle-free login and registration process.
 ```
-## App Features:
+```
+Homepage for Browsing Products:
+  A beautifully designed homepage showcasing a curated selection of products for easy browsing.
+```
+```
+Categories Page:
+  Organized product categories for quick and efficient navigation.
+```
+```
+Detailed Product Page:
+  Comprehensive product details, high-quality images, and user reviews to inform purchasing decisions.
+```
+```
+Search Page:
+  Powerful search functionality to help users find exactly what they're looking for.
+```
+```
+Cart Page:
+  A user-friendly cart page with item summaries, price details, and easy checkout options.
+```
+```
+Payment Page:
+  Secure and multiple payment methods integrated for a smooth transaction process.
+```
+```
+Favorites Page:
+  Allow users to save their favorite products for quick access and future purchases.
+```
+```
+Settings Page:
+  Customize app preferences and manage account settings effortlessly.
+```
+```
+User Profile Details Page:
+  Detailed user profile management with personal information, order history, and preferences.
+```
+```
+Available Users Page:
+  Connect and interact with other users within the app community.
+```
+```
+Adjustment Page:
+  Fine-tune app settings and preferences to enhance user experience.
+```
+```
+Light and Dark Modes:
+  Switch between light and dark themes to suit user preferences and reduce eye strain.
+```
+```
+Filtering Product:
+  Advanced filtering options to refine product searches based on various criteria.
+```
+```
+Animated Drawer:
+  A stylish and functional animated navigation drawer for easy access to different app sections.
+```
+```
+Custom In-App Alert:
+  Personalized alerts and notifications to keep users informed about offers, updates, and more.
+```
+```
+Well-Implemented Animation for Better User Experience:
+  Smooth and engaging animations throughout the app to enhance user interaction.
+```
+```
+Efficient Error Handling:
+  Robust error-handling mechanisms to ensure a seamless and bug-free experience
+```
+```
+Well-Implemented Repository Pattern:
+  Efficient data management and organization using the repository pattern for better maintainability and scalability.
+```
+### Customizable and Developer-Friendly
+ShopZilla is not just feature-rich; it’s also highly customizable, making it the perfect choice for developers of all levels. Whether you're a novice looking to learn Flutter or an experienced developer aiming to enhance your skills, ShopZilla's intuitive design and detailed documentation ensure a smooth development journey.
+### Versatile and Practical
+By integrating ShopZilla into your development toolkit, you'll have a robust foundation for creating high-quality shopping applications. Its versatility makes it ideal for educational purposes, rapid prototyping, or launching a full-fledged e-commerce platform
+### Why Choose ShopZilla?
+* Comprehensive Documentation: Easy-to-follow guides and extensive documentation make development straightforward.
+* Active Community Support: Join our developer community for ongoing support and collaboration.
+* Continuous Updates: Stay ahead with regular updates and new features
+Embrace the potential of ShopZilla and take your development projects to new heights. Purchase today and start building the shopping apps of tomorrow!
 
-### Authentications pages
+## Technologies Used
+- Flutter framework
+- Dart programming language
+- GetX package for state management
+- Dio for Api integration
+- Repository Pattern
+- Solid & Scalable Code
 
-    - Login section (All forms has been implemented with validation functions)
-        - an icon for changing the theme
-        - form for username
-        - form for password
-        - a button for login
-        - a button for login with the Facebook account(just UI)
-        - a button for login with the Google account(just UI)
-        - a button for login
-        - a text for navigating to the registration page if the user has not any account and wants to register a new account
+## 𝗙𝗔𝗤 𝗙𝗢𝗥 𝗦𝗛𝗢𝗣𝗭𝗜𝗟𝗟𝗔 𝗩.𝟮: 𝗢𝗡𝗟𝗜𝗡𝗘 𝗦𝗛𝗢𝗣𝗣𝗜𝗡𝗚 𝗔𝗣𝗣 𝗪𝗜𝗧𝗛 𝗙𝗟𝗨𝗧𝗧𝗘𝗥
+#### 1. What is included in the ShopZilla purchase?
+- When you purchase ShopZilla, you gain full access to all source code and files, an invitation to the main GitHub repository for updates, and exclusive access to a support group for developer collaboration.
 
-    - Register section (All forms has been implemented with validation functions)
-        - an icon for changing the theme
-        - a form for First name
-        - a form for Last name 
-        - a form for Email name 
-        - a form for Username 
-        - a form for Password 
-        - a form for City 
-        - a form for Street 
-        - a form for Number  
-        - a form for Zip code  
-        - a form for Phone  
-        - a button for register new account
-        - a text for navigating to the Login page if the user has an account and wants to Login
+#### 2. How can I access updates and improvements to ShopZilla?
+- Upon purchase, you will be added to the main GitHub repository where you can track all updates, improvements, and new features. Regular updates will be pushed to this repository to ensure your app remains cutting-edge.
 
-### Home page
+#### 3. What kind of support is available for ShopZilla buyers?
+- You will receive an exclusive invitation to join our vibrant support group, connecting you with other developers. This community is a space for sharing insights, seeking assistance, and collaborating on projects.
 
-    - Welcome text&dialog to the user
-    - Icon for opening the drawer
-    - search box for navigating to the search screen
-    - AutoScrollable Banner/ PageView for showing Top products
-    - List of Categories(All, electronics, jewelry, men's clothing, women's clothing)
-    - List of Hot Sales Products
-    - List of trending Products
-    - List of Recently Viewed Products
-    - Offline user screen, for Home
+#### 4. Is there any documentation provided with ShopZilla?
+- Yes, ShopZilla comes with comprehensive documentation. This includes easy-to-follow guides and extensive documentation to assist you in the development process, making it straightforward even for novice developers.
 
-### Details Product page
+#### 5. Can I customize the ShopZilla template for my own needs?
+- Absolutely! ShopZilla is highly customizable. Whether you are a beginner or an experienced developer, the intuitive design and detailed documentation make it easy to tailor the app to your specific requirements.
 
-    - Product image
-    - Icon for adding to favorite
-    - Product name and descriptions and price
-    - A form for adding pa coupon
-    - A button for adding the product to cart
+#### 6. How can I showcase the new features and enhancements of ShopZilla?
+- For a sneak peek of the exciting new features and enhancements in ShopZilla V.2, follow us on Instagram (@codewithflexz). This will keep you in the loop with the latest updates and provide exclusive insights into the app's capabilities.
 
-### Search page
-
-    - A Form for searching your favorite product you want
-    - List of suggestions for products based on the top search list
-    - Empty Screen for the time the product does not exist according to your search
-    - You can navigate to your favorite product details, add it to your cart or mark it as a favorite after finding it by searching
-
-### Animated Drawer
-
-    - username and email and profile picture
-    - List of, some options that you can navigate to.
-    - ShopZilla on Github / open project repo on Github
-    - A button for logout user
-
-### My Cart page
-
-    - Empty list page for the empty cart
-    - user profile and address
-    - List of products selected by the user for purchase
-    - delete the product from the list by scrolling (ltr)
-    - an Icon for deleting all products
-    - bottom sheet for seeing details (adding coupon code, subtotal, delivery fee, Discount, Total price)
-    - a Button for navigating to the payment page
-
-### Payment page (x4)
-
-    - Add card section
-        - a form for cardholder name
-        - a form for the card number
-        - a form for expiration code
-        - a form for security code
-        - a switch button for setting the current filled data as default
-        
-    - Payment section
-        - choose the payment card/ method (MasterCard, Visa, Discover, Paypal)
-        
-    - Checkout section
-        - Shipping address
-        - Delivery Details
-        - Payment cart
-        - promo code
-        - final details(final price, subtotal, delivery, total)
-        
-     - Payment approved
-        - a button for filling data from beginning
-        - order number
-        - button for back to home page
-
-### Favorite List page
-
-    - Empty list page for the empty Favorite list
-    - a button for sorting list, based on(All, Low Price, High Price, Alphabet, Rating,Electronic, Jewelry, men's clothing, women's clothing)
-    - an Icon for deleting all favorite products
-    - an Icon for changing the method of showing products(grid, list)
-    - delete the product from the list by scrolling (ltr)
-    - an Icon for deleting all products
-    - bottom sheet for seeing details (adding coupon code, subtotal, delivery fee, Discount, Total price)
-    - a Button for navigating to the payment page
-
-### Setting page
-
-    - an icon for contacting with developer
-    - an icon for sharing the app with people
-    - user profile, full name, and email, by tapping on it you will navigate to user profile details
-    - a list tile for changing the app theme
-    - a list tile for changing app language(just UI)
-    - a list tile for navigating to the available users page
-    - a list tile for navigating to the adjustment page
-    - a list tile for logout users from current account
-
-### user profile details page
-
-    - empty page for the time user is not logged in
-    - on the top, user profile picture(user can add his profile pic from local storage or take a shot with camera)
-    - some forms for the available information of the user
-        - Name
-        - Email address
-        - Username
-        - Password
-        - Phone
-        - Complete address(city, street,number, zip code)
-
-### Available users page
-
-    - Available users list for logging as them
-        - user profile
-        - username
-        - user email
-        - user password
-        - current status
-
-### Adjustment page
-
-    - a list tile and switch button for enabling and disabling the intro screen
-    - a list tile and switch button for enabling and disabling the welcome dialog
-    - a list tile for showing user token (Log in)
-    - a list tile for showing the user id (Register)
-    - a list tile for showing payment info
-        - cardholder name
-        - card number
-        - expiration code
-        - security code
-
-### Light&Dark Theme
-
-    - different loading widget, primary color, and images while the user change the app theme
-
-## Technologies:
- - Flutter
- -  Dart
- -  GetX
-
-<br>
+#### 7. What backend does ShopZilla use, and how does it enhance the user experience?
+ShopZilla harnesses the FakeStoreApi backend to ensure a seamless, enriched shopping experience with efficient data management, detailed product information, and high-quality images.
 
 
-## My Socials:
-
-- [INSTAGRAM](https://www.instagram.com/codewithflexz)
-- [YOUTUBE](https://www.youtube.com/c/ProgrammingWithFlexZ)
-- [GITHUB](https://github.com/AmirBayat0)
-- [CONTACT ME](https://amirbayat.dev@gmail.com)
-- [FIND MORE](https://zaap.bio/CodeWithFlexz)
+### Connect with Me
+- 📸 Instagram: [@codewithflexz](https://www.instagram.com/codewithflexz)
+- 🎬 YouTube: [Programming With FlexZ](https://www.youtube.com/c/ProgrammingWithFlexZ)
+- 📧 Contact: [amirbayat.dev@gmail.com](https://mail.google.com/mail/u/0/)
+- 📥 Linkedin: [amirbayat](https://www.linkedin.com/in/amirhossein-bayat-9288a4225/)
+- 🔗 More Links: [zaap.bio/CodeWithFlexz](https://zaap.bio/CodeWithFlexz)
