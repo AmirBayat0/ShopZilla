@@ -18,6 +18,10 @@ Splash Page:
   Welcome users with an attractive and animated splash screen that sets the tone for a delightful shopping experience.
 ```
 ```
+Onboarding/Introduction Pages:
+  Engaging and informative onboarding and introduction screens provide users with a smooth and welcoming introduction to your application, guiding them through key features and functionalities.
+```
+```
 User Authentication Page:
   Secure and intuitive user authentication ensures a hassle-free login and registration process.
 ```
