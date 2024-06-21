@@ -13,90 +13,30 @@ The project was meticulously crafted using a modular and scalable architecture, 
 
 ### ShopZilla: A Cutting-Edge Solution for E-Commerce Development
 ShopZilla is an advanced application template designed to harness the power of the [FakeStoreApi](https://fakestoreapi.com/docs) backend, delivering a seamless and enriched user experience. With a comprehensive suite of features, ShopZilla streamlines the shopping process and elevates user engagement. Key features include:
-```
-Splash Page:
-  Welcome users with an attractive and animated splash screen that sets the tone for a delightful shopping experience.
-```
-```
-Onboarding/Introduction Pages:
-  Engaging and informative onboarding and introduction screens provide users with a smooth and welcoming introduction to your application, guiding them through key features and functionalities.
-```
-```
-User Authentication Page:
-  Secure and intuitive user authentication ensures a hassle-free login and registration process.
-```
-```
-Homepage for Browsing Products:
-  A beautifully designed homepage showcasing a curated selection of products for easy browsing.
-```
-```
-Categories Page:
-  Organized product categories for quick and efficient navigation.
-```
-```
-Detailed Product Page:
-  Comprehensive product details, high-quality images, and user reviews to inform purchasing decisions.
-```
-```
-Search Page:
-  Powerful search functionality to help users find exactly what they're looking for.
-```
-```
-Cart Page:
-  A user-friendly cart page with item summaries, price details, and easy checkout options.
-```
-```
-Payment Page:
-  Secure and multiple payment methods integrated for a smooth transaction process.
-```
-```
-Favorites Page:
-  Allow users to save their favorite products for quick access and future purchases.
-```
-```
-Settings Page:
-  Customize app preferences and manage account settings effortlessly.
-```
-```
-User Profile Details Page:
-  Detailed user profile management with personal information, order history, and preferences.
-```
-```
-Available Users Page:
-  Connect and interact with other users within the app community.
-```
-```
-Adjustment Page:
-  Fine-tune app settings and preferences to enhance user experience.
-```
-```
-Light and Dark Modes:
-  Switch between light and dark themes to suit user preferences and reduce eye strain.
-```
-```
-Filtering Product:
-  Advanced filtering options to refine product searches based on various criteria.
-```
-```
-Animated Drawer:
-  A stylish and functional animated navigation drawer for easy access to different app sections.
-```
-```
-Custom In-App Alert:
-  Personalized alerts and notifications to keep users informed about offers, updates, and more.
-```
-```
-Well-Implemented Animation for Better User Experience:
-  Smooth and engaging animations throughout the app to enhance user interaction.
-```
-```
-Efficient Error Handling:
-  Robust error-handling mechanisms to ensure a seamless and bug-free experience
-```
-```
-Well-Implemented Repository Pattern:
-  Efficient data management and organization using the repository pattern for better maintainability and scalability.
-```
+
+- #### Cross-Platform: Available on both Android and iOS.
+- #### Splash Page: Welcome users with an attractive and animated splash screen that sets the tone for a delightful shopping experience.
+- #### Onboarding/Introduction Pages: Engaging and informative onboarding and introduction screens provide users with a smooth and welcoming introduction to your application, guiding them through key features and functionalities.
+- #### User Authentication Page: Secure and intuitive user authentication ensures a hassle-free login and registration process.
+- #### Homepage for Browsing Products: A beautifully designed homepage showcasing a curated selection of products for easy browsing.
+- #### Categories Page: Organized product categories for quick and efficient navigation.
+- #### Detailed Product Page: Comprehensive product details, high-quality images, and user reviews to inform purchasing decisions.
+- #### Search Page: Powerful search functionality to help users find exactly what they're looking for.
+- #### Cart Page: A user-friendly cart page with item summaries, price details, and easy checkout options.
+- #### Payment Page: Secure and multiple payment methods integrated for a smooth transaction process.
+- #### Favorites Page: Allow users to save their favorite products for quick access and future purchases.
+- #### Settings Page: Customize app preferences and manage account settings effortlessly.
+- #### User Profile Details Page: Detailed user profile management with personal information, order history, and preferences.
+- #### Available Users Page: Connect and interact with other users within the app community.
+- #### Adjustment Page: Fine-tune app settings and preferences to enhance user experience.
+- #### Light and Dark Modes: Switch between light and dark themes to suit user preferences and reduce eye strain.
+- #### Filtering Product: Advanced filtering options to refine product searches based on various criteria.
+- #### Animated Drawer: A stylish and functional animated navigation drawer for easy access to different app sections.
+- #### Custom In-App Alert: Personalized alerts and notifications to keep users informed about offers, updates, and more.
+- #### Well-Implemented Animation for Better User Experience: Smooth and engaging animations throughout the app to enhance user interaction.
+- #### Efficient Error Handling: Robust error-handling mechanisms to ensure a seamless and bug-free experience
+- #### Well-Implemented Repository Pattern: Efficient data management and organization using the repository pattern for better maintainability and scalability.
+
 ### Customizable and Developer-Friendly
 ShopZilla is not just feature-rich; it’s also highly customizable, making it the perfect choice for developers of all levels. Whether you're a novice looking to learn Flutter or an experienced developer aiming to enhance your skills, ShopZilla's intuitive design and detailed documentation ensure a smooth development journey.
 ### Versatile and Practical
