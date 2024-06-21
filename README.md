@@ -115,6 +115,10 @@ Embrace the potential of ShopZilla and take your development projects to new hei
 - Repository Pattern
 - Solid & Scalable Code
 
+
+# App Preview
+- relevant links will be placed here!
+
 ## 𝗙𝗔𝗤 𝗙𝗢𝗥 𝗦𝗛𝗢𝗣𝗭𝗜𝗟𝗟𝗔 𝗩.𝟮: 𝗢𝗡𝗟𝗜𝗡𝗘 𝗦𝗛𝗢𝗣𝗣𝗜𝗡𝗚 𝗔𝗣𝗣 𝗪𝗜𝗧𝗛 𝗙𝗟𝗨𝗧𝗧𝗘𝗥
 #### 1. What is included in the ShopZilla purchase?
 - When you purchase ShopZilla, you gain full access to all source code and files, an invitation to the main GitHub repository for updates, and exclusive access to a support group for developer collaboration.
