@@ -24,7 +24,7 @@ ShopZilla is an advanced application template designed to harness the power of t
 - #### Detailed Product Page: Comprehensive product details, high-quality images, and user reviews to inform purchasing decisions.
 - #### Search Page: Powerful search functionality to help users find exactly what they're looking for.
 - #### Cart Page: A user-friendly cart page with item summaries, price details, and easy checkout options.
-- #### Payment Page: Secure and multiple payment methods integrated for a smooth transaction process.
+- #### Payment Page: Simulated payment methods integrated for a smooth transaction process.
 - #### Favorites Page: Allow users to save their favorite products for quick access and future purchases.
 - #### Settings Page: Customize app preferences and manage account settings effortlessly.
 - #### User Profile Details Page: Detailed user profile management with personal information, order history, and preferences.
