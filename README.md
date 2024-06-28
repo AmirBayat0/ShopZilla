@@ -58,7 +58,7 @@ Embrace the potential of ShopZilla and take your development projects to new hei
 
 
 # App Preview
-- (General Preview)[https://www.instagram.com/p/C8wph1kARwQ/?igsh=a2Y2NGQxOTI4YTZm]
+- [General Preview](https://www.instagram.com/p/C8wph1kARwQ/?igsh=a2Y2NGQxOTI4YTZm)
 
 ## 𝗙𝗔𝗤 𝗙𝗢𝗥 𝗦𝗛𝗢𝗣𝗭𝗜𝗟𝗟𝗔 𝗩.𝟮: 𝗢𝗡𝗟𝗜𝗡𝗘 𝗦𝗛𝗢𝗣𝗣𝗜𝗡𝗚 𝗔𝗣𝗣 𝗪𝗜𝗧𝗛 𝗙𝗟𝗨𝗧𝗧𝗘𝗥
 #### 1. What is included in the ShopZilla purchase?
