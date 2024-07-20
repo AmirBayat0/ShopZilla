@@ -64,7 +64,8 @@ Embrace the potential of ShopZilla and take your development projects to new hei
 - [🎉 SHOPZILLA V.2 Preview! Part2 (Authentication Feature) 🛍️](https://www.instagram.com/p/C9AI1r7ggdc/?igsh=MWU3eTd4Z3Rpd2xxaQ==)
 - [🎉 SHOPZILLA V2.0 Preview! Part3 (Home Feature) 🛍️](https://www.instagram.com/p/C9M9h4iOn2U/?igsh=MWUzZzE3c254bWYyeQ==)
 - [🎉 SHOPZILLA V.2 Preview! Part 4 (Sub Home Features) 🛍️](https://www.instagram.com/p/C9chtF6Nmhx/?igsh=MWtrNXYzM3M5azVtMw==)
-  
+- [🎉 SHOPZILLA V.2 Preview! Part 5 (Categories Feature) 🛍️](https://www.instagram.com/p/C9pWToGA5ZC/?igsh=MTRkZDZvbmpwYTU3dA==)
+    
 ## 𝗙𝗔𝗤 𝗙𝗢𝗥 𝗦𝗛𝗢𝗣𝗭𝗜𝗟𝗟𝗔 𝗩.𝟮: 𝗢𝗡𝗟𝗜𝗡𝗘 𝗦𝗛𝗢𝗣𝗣𝗜𝗡𝗚 𝗔𝗣𝗣 𝗪𝗜𝗧𝗛 𝗙𝗟𝗨𝗧𝗧𝗘𝗥
 #### 1. What is included in the ShopZilla purchase?
 - When you purchase ShopZilla, you gain full access to all source code and files, an invitation to the main GitHub repository for updates, and exclusive access to a support group for developer collaboration.
