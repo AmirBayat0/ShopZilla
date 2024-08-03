@@ -66,6 +66,7 @@ Embrace the potential of ShopZilla and take your development projects to new hei
 - [🎉 SHOPZILLA V.2 Preview! Part 5 (Categories Feature) 🛍️](https://www.instagram.com/p/C9pWToGA5ZC/?igsh=MTRkZDZvbmpwYTU3dA==)
 - [🎉 SHOPZILLA V.2 Preview! Part 6 (Cart Feature) 🛍️](https://www.instagram.com/p/C9zl5JxugSu/?igsh=MWlrcm0wOTF0ZTM0)
 - [🎉 SHOPZILLA V.2 Preview! Part 7 (Search Feature) 🛍️](https://www.instagram.com/p/C999C6JOI6g/?igsh=dWY2YWg3MGptaW9n)
+- [🎉 SHOPZILLA V.2 Preview! Part 8 (Back Button Handler Micro Feature) 🛍️](https://www.instagram.com/p/C-NVY8IAJZ5/?igsh=bnl2eGNqbmN3dThz)
   
 ## 𝗙𝗔𝗤 𝗙𝗢𝗥 𝗦𝗛𝗢𝗣𝗭𝗜𝗟𝗟𝗔 𝗩.𝟮: 𝗢𝗡𝗟𝗜𝗡𝗘 𝗦𝗛𝗢𝗣𝗣𝗜𝗡𝗚 𝗔𝗣𝗣 𝗪𝗜𝗧𝗛 𝗙𝗟𝗨𝗧𝗧𝗘𝗥
 #### 1. What is included in the ShopZilla purchase?
